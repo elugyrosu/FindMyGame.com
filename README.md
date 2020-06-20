@@ -9,6 +9,8 @@ Fill your favorite games list.
 
 This app is powered by the IGDB.com API for non commercial use.
 
+Find My Game is build with SwiftUI for iOS 13.0 and latter.
+
 If you have any suggestion or issue contact me at
 
 leeloomulti@gmail.com
