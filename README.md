@@ -1,4 +1,4 @@
-# FindMyGame.com - Support
+# FindMyGame - Support
 
 Find My Game is an iPhone application to find games made for you, quickly.
 
